@@ -31,3 +31,5 @@ Useful Gradle tasks and flags:
 
 Note that most tasks that are not specific to a single project can be run with `name:` prefix, where the `name` should be replaced with the ID of a specific project.
 For example, `core:clean` removes `build` folder only from the `core` project.
+# Nottshack-Project-DCAI-TFBOYS
+This repository is created to do the project in 2026 Nottshack Hackthon and the track name is Open Innovation Powered by DCAI.And our group name is TFBOYS.
